@@ -81,26 +81,6 @@ nav a:hover {
   width: 100%;
 }
 
-.card-img, .rivers-card {
-  width: 100%;
-}
-
-.card-img, .camping-card {
-  width: 100%;
-}
-
-.card-img, .rapids-card {
-  width: 100%;
-}
-
-.card-img, .msg {
-  width: 100%;
-}
-
-.card-img, #background {
-  width: 100%;
-}
-
 .book,
 .join {
   background-color: rgba(20, 30, 13, 0.7);
